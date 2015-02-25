@@ -1,0 +1,48 @@
+.jumbotron h1 {
+  font-size: 40px;
+  color: #fff;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.jumbotron h2 {
+  color: #fff;
+  font-size: 14px
+}
+
+.jumbotron p {
+  color: #fff;
+  font-size: 18px;
+}
+
+.professional-experience h3 {
+  font-size: 18px;
+  font-family: serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.education h3 {
+  font-size: 18px;
+  font-family: serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.professional-experience h5 {
+  font-size: 14px;
+}
+
+.professional-experience h4 {
+  font-weight: bold;
+  font-family: serif;
+  font-size: 16px;
+}
+
+.jumbotron .container {
+  position: relative;
+}
+
+.jumbotron {
+  background-color: #093c29;
+}
